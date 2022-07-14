@@ -1,6 +1,10 @@
 <p align="center">
-  <a href="https://github.com/hoangloi-nt"><img src="https://readme-typing-svg.herokuapp.com?lines=My+name+is+Nguyen+Tran+Hoang+Loi;I+am+Front-end+Developer;Freelancer;HTML|CSS|JavaScript|ReactJS|Figma;Always%20learning%20new%20things&center=true&width=400&height=45"></a>
+  <a href="https://github.com/hoangloi-nt"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=22&center=true&vCenter=true&width=450&lines=Hello+.+.+.;My+name+is+Nguyen+Tran+Hoang+Loi;I+am+Front-end+Developer"></a>
 </p>
+
+<div align="center">
+  <img src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height=300 />
+</div>
 
 <h2 align="center" style="margin-top: 20px">🛠 Technologies and Tools 🛠</h2>
 <span><img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" /></span>
