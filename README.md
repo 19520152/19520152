@@ -2,8 +2,8 @@
   <a href="https://github.com/hoangloi-nt"><img src="https://readme-typing-svg.herokuapp.com?font=SF+Mono&size=22&center=true&vCenter=true&width=450&lines=Hello+.+.+.;My+name+is+Nguyen+Tran+Hoang+Loi;I+am+Front-end+Developer"></a>
 </p>
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" height=300 />
+<div align="center" height=300>
+  ![catcoding](https://user-images.githubusercontent.com/67638759/178952705-f5d86596-5dcb-449a-8305-99e0b7669755.gif)
 </div>
 
 <h2 align="center" style="margin-top: 20px">🛠 Technologies and Tools 🛠</h2>
