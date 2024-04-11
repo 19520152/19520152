@@ -7,7 +7,7 @@
 </div>
 
 <h2 align="center" style="margin-top: 20px">👦🏻 My Portfolio Website 👦🏻</h2>
-<p align="center">https://www.hoangloi.cf</p>
+<p align="center">https://hoangloi-portfolio.netlify.app</p>
 
 
 <h2 align="center" style="margin-top: 20px">🛠 Technologies and Tools 🛠</h2>
